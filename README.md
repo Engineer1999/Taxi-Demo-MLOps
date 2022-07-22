@@ -38,3 +38,12 @@
 
 ### 5. Verify the tf serving
 > curl -X GET http:/localhost:9001/v1/models/taxi_experiment
+
+
+## Airflow Demo
+![alt text](https://github.com/Engineer1999/Detect-technologies-I2/blob/main/images/Final_DAG.png)
+
+
+## Tensorflow-serving demo
+![alt text](https://github.com/Engineer1999/Detect-technologies-I2/blob/main/images/serving.png)
+
