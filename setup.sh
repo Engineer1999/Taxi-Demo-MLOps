@@ -66,8 +66,6 @@ airflow initdb
 
 # Copy Dags to ~/airflow/dags
 mkdir -p ~/airflow/dags
-cp dags/taxi_pipeline.py ~/airflow/dags/
-cp dags/taxi_utils.py ~/airflow/dags/
 cp dags/taxi_pipeline_solution.py ~/airflow/dags/
 cp dags/taxi_utils_solution.py ~/airflow/dags/
 
