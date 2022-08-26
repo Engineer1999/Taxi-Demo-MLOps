@@ -5,7 +5,7 @@
 ### 1. Install anaconda and create the virtual environment
 > conda create -n demoEnv python=3.7.0
 
-### 2. Install the dependencies from requirement.txt file
+### 2. Install Apache airflow
 > pip install apache-airflow==1.10.3
 
 ### 3. Run the setup file setup.sh
