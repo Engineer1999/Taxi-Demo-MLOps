@@ -1,4 +1,4 @@
-# Detect-technologies-I2
+# Follow this step to impliment the demo
 
 ## Follow below steps to run the demo
 
