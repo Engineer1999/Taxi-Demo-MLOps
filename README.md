@@ -6,7 +6,7 @@
 > conda create -n demoEnv python=3.7.0
 
 ### 2. Install the dependencies from requirement.txt file
-> pip install -r requirement.txt
+> pip install apache-airflow==1.10.3
 
 ### 3. Run the setup file setup.sh
 > bash setup.sh
