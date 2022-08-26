@@ -41,9 +41,9 @@
 
 
 ## Airflow Demo
-![alt text](https://github.com/Engineer1999/Detect-technologies-I2/blob/main/images/Final_DAG.png)
+![alt text](https://github.com/Engineer1999/HTM-MLOps/blob/main/images/Final_DAG.png)
 
 
 ## Tensorflow-serving demo
-![alt text](https://github.com/Engineer1999/Detect-technologies-I2/blob/main/images/serving.png)
+![alt text](https://github.com/Engineer1999/HTM-MLOps/blob/main/images/serving.png)
 
